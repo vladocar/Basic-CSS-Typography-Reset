@@ -7,7 +7,7 @@ In my previous project CSS Micro Reset I stated that we often set HTML multiple 
 
 In this project I want to implement some basic typography for the most commonly used HTML elements.
 
-Demos:
+#### Demos:
 
 https://vladocar.github.io/Basic-CSS-Typography-Reset/
 
@@ -15,7 +15,13 @@ https://vladocar.github.io/Basic-CSS-Typography-Reset/Looking-Glass.html
 
 https://vladocar.github.io/Basic-CSS-Typography-Reset/Headings.htm
 
-<h3>License</h3>
+#### CDN:
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/basic-css-typography-reset@1.0.0/typography.min.css">
+```
+
+#### License
 
 This project is licensed under the MIT License
 
