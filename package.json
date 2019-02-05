@@ -1,0 +1,26 @@
+{
+  "name": "basic-css-typography-reset",
+  "version": "1.0.0",
+  "description": "Basic CSS Typography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladocar/Basic-CSS-Typography-Reset.git"
+  },
+  "keywords": [
+    "css",
+    "css",
+    "typography",
+    "css",
+    "reset"
+  ],
+  "author": "Vladimir Carrer <vladocar@gmail.com> (http://www.vcarrer.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladocar/Basic-CSS-Typography-Reset/issues"
+  },
+  "homepage": "https://github.com/vladocar/Basic-CSS-Typography-Reset#readme"
+}
